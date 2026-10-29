@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djvshvk343.github.io/photossd-support/sitemap.xml
